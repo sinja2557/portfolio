@@ -8,7 +8,7 @@
 
 · Capstone Design 1, 2 / 캡스톤디자인 1, 2 백업용
 - https://github.com/sinja2557/CapstoneDesign1_project
-- https://github.com/sinja2557/Js.Project (캡스톤디자인 웹 DB)
+- https://github.com/sinja2557/Js.Project (캡스톤디자인1 웹 DB)
 
 - https://github.com/sinja2557/CapstoneDesign2_project
 - https://github.com/sinja2557/raspberrypi_python (캡스톤디자인2 라즈베리파이 파이썬 코드)
