@@ -2,8 +2,8 @@
 · All Repositoires 
 - https://github.com/sinja2557?tab=repositories
 
-· JAVA (Minecraft Server Plugin) / 1인 개발
-Playground - [https://www.youtube.com/playlist?list=PLRJEK4G7PTStCh-ZOwK6i3faLw6eJ6Zn9](https://youtube.com/playlist?list=PLRJEK4G7PTStCh-ZOwK6i3faLw6eJ6Zn9&feature=shared)
+· JAVA (Minecraft Server Plugin) / 1인 개발=
+- [https://www.youtube.com/playlist?list=PLRJEK4G7PTStCh-ZOwK6i3faLw6eJ6Zn9](https://youtube.com/playlist?list=PLRJEK4G7PTStCh-ZOwK6i3faLw6eJ6Zn9&feature=shared)
 - https://github.com/sinja2557/Playground
 
 · Capstone Design 1, 2 / 캡스톤디자인 1, 2 백업용
