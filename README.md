@@ -16,3 +16,6 @@
 
 · System Programming / 대학교 강의 백업용
 - https://github.com/sinja2557/systemprograming/tree/master
+
+· 대한상공회의소 경기인력개발원 Microsoft Cyber Security 8회차
+- https://github.com/sinja2557/azure-provisioning-portal
